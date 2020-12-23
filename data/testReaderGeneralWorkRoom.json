@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "Access Permission": false,
+      "User Name": "tom101",
+      "Operating System": "MACOS",
+      "Name": "Tom",
+      "Password": "A321000"
+    },
+    {
+      "Access Permission": true,
+      "User Name": "sam2020",
+      "Operating System": "Windows",
+      "Name": "Sam",
+      "Password": "A12P1"
+    }
+
+  ],
+  "name": "My work room"
+}

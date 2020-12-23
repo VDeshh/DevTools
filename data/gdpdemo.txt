@@ -1,0 +1,10 @@
+United States   18,390.900
+China           15,923.626
+India           5,750.467      
+Japan           5,021.990      
+Germany         3,440.437      
+Russia          2,827.978      
+Brazil          2,656.858      
+United Kingdom  2,562.320      
+France          2,416.128    
+Mexico          2,040.222

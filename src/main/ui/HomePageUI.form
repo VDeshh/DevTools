@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ui.HomePageUI">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="8" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="10" left="10" bottom="10" right="10"/>
+    <constraints>
+      <xy x="23" y="20" width="805" height="519"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+      <enabled value="true"/>
+      <font/>
+      <foreground color="-16777216"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="ed660" class="javax.swing.JLabel" binding="imgLogo" custom-create="true">
+        <constraints>
+          <grid row="0" column="0" row-span="5" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="766f" class="javax.swing.JButton" binding="loginBtn">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16021750"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="Login"/>
+        </properties>
+      </component>
+      <component id="401b0" class="javax.swing.JButton" binding="softwareUpdateBtn">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-2829306"/>
+          <font size="18" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Software Update"/>
+        </properties>
+      </component>
+      <component id="aadd1" class="javax.swing.JButton" binding="signUpButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16021750"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="Sign-Up"/>
+        </properties>
+      </component>
+      <component id="f2b1e" class="javax.swing.JButton" binding="viewLicenseBtn">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-15390347"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="View License"/>
+        </properties>
+      </component>
+      <component id="a4ac9" class="javax.swing.JButton" binding="viewReadmeBtn">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-15390347"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="View Readme"/>
+        </properties>
+      </component>
+      <component id="5ca0d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Courier New" size="36" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="DevTools"/>
+        </properties>
+      </component>
+      <component id="83ded" class="javax.swing.JButton" binding="quitBtn">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="6" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4127743"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="QUIT"/>
+        </properties>
+      </component>
+      <component id="92d8f" class="javax.swing.JButton" binding="viewGithubBtn">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-15390347"/>
+          <font size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="View GitHub"/>
+        </properties>
+      </component>
+      <component id="27f4" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Courier New" size="8" style="1"/>
+          <foreground color="-12828863"/>
+          <text value="2020 CopyWrite© (C) Vishal Desh"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

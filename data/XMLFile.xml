@@ -1,0 +1,35 @@
+<?xml version="1.0"?>  
+<class>  
+    <student>  
+        <id>101</id>  
+        <firstname>Harry</firstname>
+        <lastname>Smith</lastname>
+        <subject>Math</subject>  
+        <marks>83</marks>  
+    </student>  
+      
+    <student>  
+        <id>102</id>  
+        <firstname>Chip</firstname>
+        <lastname>Wilson</lastname>
+        <subject>Chemistry</subject>  
+        <marks>60</marks>  
+    </student>  
+  
+    <student>  
+        <id>103</id>  
+        <firstname>John</firstname>
+        <lastname>Lee</lastname>
+        <subject>English</subject>  
+        <marks>70</marks>  
+    </student>  
+  
+    <student>  
+        <id>104</id>  
+        <firstname>Jitesh</firstname>  
+        <lastname>Singh</lastname>  
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </student>  
+  
+</class>  
